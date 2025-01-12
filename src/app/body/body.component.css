@@ -1,0 +1,59 @@
+.card {
+    margin-top: 40px;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: rgba(255, 255, 255, 0);
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.title {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    font-size: 8rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    letter-spacing: 10px;
+    color: #683497 !important;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+.description {
+    font-family: 'Roboto Slab', serif;
+    font-size: 4rem;
+    font-weight: bold;
+    letter-spacing: 5px;
+    color: #683497 !important;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+.fotos {
+    transition: transform 0.3s;
+}
+
+.fotos:hover {
+    transform: scale(1.05) rotate(0deg);
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.card-title{
+    font-family: 'Roboto Slab', serif;
+    color: #683497;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.produtos{
+    margin-top: 190px;
+}
+
+.items{
+    margin-top: 40px;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: rgba(255, 255, 255, 0);
+    display: flex;
+    justify-content: space-between;
+}
+
