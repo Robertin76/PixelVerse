@@ -1,17 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
-:root {
-    --primary-color: #8d1cee;
-    --second-color: #641b82;
-    --tertiary-color: #3c1165;
-    --quaternary-color: #34143f;
-    --quinary-color: black;
-}
-
-
 body {
-    background-image: linear-gradient(to right, transparent, #8D1CEE);
+    background-image: linear-gradient(to right, turquoise, #8D1CEE);
     background-position: bottom;
     background-size: 100%; /* Ajuste o tamanho vertical para controlar a altura do degradê */
     background-repeat: no-repeat;
     background-attachment: fixed;
-  }
+}

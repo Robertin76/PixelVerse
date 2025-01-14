@@ -14,7 +14,7 @@
     font-weight: bold;
     margin-bottom: 1rem;
     letter-spacing: 10px;
-    color: #683497 !important;
+    color: #fcfcfc !important;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
 }
 
@@ -23,7 +23,7 @@
     font-size: 4rem;
     font-weight: bold;
     letter-spacing: 5px;
-    color: #683497 !important;
+    color: #fcfcfc !important;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
 }
 
@@ -34,15 +34,6 @@
 .fotos:hover {
     transform: scale(1.05) rotate(0deg);
     box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
-}
-
-.card-title{
-    font-family: 'Roboto Slab', serif;
-    color: #683497;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
-    display: flex;
-    justify-content: space-between;
-
 }
 
 .produtos{

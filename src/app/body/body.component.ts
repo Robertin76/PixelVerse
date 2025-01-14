@@ -22,5 +22,8 @@ export class BodyComponent {
     new Produtos('/caixas.jpg', 'Caixa de TCG'),
     new Produtos('/caixapokemon01.jpg', 'Caixa Pokemon'),
     new Produtos('/caixapokemon02.jpg', 'Caixa Pokemon'),
+    new Produtos('/tumba.jpg', 'Quebra-cabeça do Milênio'),
+    new Produtos('/aberta.jpg', 'Quebra-cabeça do Milênio'),
+    new Produtos('/milênio.jpg', 'Quebra-cabeça do Milênio'),
   ]
 }
